@@ -6,6 +6,12 @@
   <br/>
   
   <p>
+    <a href="https://nazar-liard.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-View_Project-purple?style=for-the-badge&logo=vercel" alt="Live Demo" />
+    </a>
+  </p>
+  
+  <p>
     <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/TailwindCSS-Styled-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
